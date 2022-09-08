@@ -1,0 +1,9 @@
+[submodule "webapp-frontend"]
+	path = webapp-frontend
+	url = https://github.com/hackathon7sustainabledev/frontend.git
+[submodule "webapp-backend"]
+	path = webapp-backend
+	url = https://github.com/hackathon7sustainabledev/node-backend.git
+[submodule "mobile-app"]
+	path = mobile-app
+	url = https://github.com/hackathon7sustainabledev/mobile-application.git
